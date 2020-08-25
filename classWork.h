@@ -7,3 +7,8 @@ bool random()
 {
 	return true;
 }
+
+void oneNewFunc()
+{
+	
+}
